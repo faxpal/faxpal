@@ -10,8 +10,7 @@ Hey, I'm Karak 👋
 - 🎓 Pursuing **B.Tech in Computer Science**
 - 🌱 Currently learning and building — somewhere between "it works on my machine" and "ship it"
 - 🎯 Long-term goals: **Full Stack Development** + **Machine Learning**
-- 🎵 I make music when I'm not writing code
-- 📹 Planning a **tech YouTube channel** — documenting the learning journey
+- 📹 Planning a **tech YouTube channel** — AI driven
 - ⚡ I like hackathons — a great way to build fast and learn faster
 
 
