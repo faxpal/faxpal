@@ -1,11 +1,11 @@
-## Hi there 👋
+Hi there 👋
 
-<!-# Hey, I'm Karak 👋
+Hey, I'm Karak 👋
 
 > CS undergrad | Aspiring Full Stack Dev & ML Engineer | Still figuring things out, one commit at a time
 
 
-## 🧑‍💻 About Me
+🧑‍💻 About Me
 
 - 🎓 Pursuing **B.Tech in Computer Science**
 - 🌱 Currently learning and building — somewhere between "it works on my machine" and "ship it"
@@ -41,16 +41,6 @@
 | 📊 Data Analysis Project | Explored and analyzed a government dataset to extract meaningful insights | - |
 
 > More coming — I'm actively building and experimenting.
-
-
-
-📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thekarak&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekarak&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
 
 
  🤝 Connect with Me
